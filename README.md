@@ -6,9 +6,9 @@ Software Developer
 
 I've recently pivoted to Mobile Development, focusing mainly on developing applications with Flutter. This journey involves a lot of learning and building.
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  Based in Nairobi, Kenya
 * ✉️  You can contact me at [jaynenjeri739@gmail.com](mailto:jaynenjeri739@gmail.com)
-* 🧠  I'm learning Flutter and React Native
+* 🧠  Currently Learning Dart and the Flutter Framework.
 * ⚡  Fun Fact..Demon Slayer is my current favorite anime 🤫
 
 ### Skills
