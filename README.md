@@ -8,7 +8,7 @@ I've recently pivoted to Mobile Development, focusing mainly on developing appli
 
 * 🌍  Based in Nairobi, Kenya
 * ✉️  You can contact me at [jaynenjeri739@gmail.com](mailto:jaynenjeri739@gmail.com)
-* 🧠  Currently Learning Dart and the Flutter Framework.
+* 🧠  Currently Learning Dart and the Flutter Framework as well as Python.
 * ⚡  Fun Fact..Demon Slayer is my current favorite anime 🤫
 
 ### Skills
