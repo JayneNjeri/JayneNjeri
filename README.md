@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -----------------
 
-I am a passionate and versatile software developer, with a keen interest in Mobile Application Development, Product Management, and UI/UX Design, I am honing my skills to specialize in Mobile Application Development. I thrive in creating user-centric mobile solutions and enjoy taking on new challenges that push my technical and creative limits.
+I am a passionate and versatile software developer, with a keen interest in Mobile Application Development and Product Design, I am honing my skills to specialize in Mobile Application Development. I thrive in creating user-centric mobile solutions and enjoy taking on new challenges that push my technical and creative limits.
 
 I am committed to continuous learning and actively seeking opportunities to contribute to innovative projects while growing professionally..
 
