@@ -5,15 +5,8 @@ My name is Jane Mwangi
 
 Software Developer
 -----------------
-
-I am a passionate and versatile software developer, with a keen interest in Mobile Application Development and Product Design, I am honing my skills to specialize in Mobile Application Development. I thrive in creating user-centric mobile solutions and enjoy taking on new challenges that push my technical and creative limits.
-
-I am committed to continuous learning and actively seeking opportunities to contribute to innovative projects while growing professionally..
-
-* 🌍  Based in Nairobi, Kenya
-* ✉️  You can contact me at [jaynenjeri739@gmail.com](mailto:jaynenjeri739@gmail.com)
-* 🧠  Full time learner.
-* ⚡  Fun Fact..Demon Slayer is my current favorite anime 🤫
+I'm a passionate and curious QA Engineer with a growing background in software development,
+always looking to improve my skills, collaborate with others, and contribute to impactful projects.
 
 ### Skills
 
