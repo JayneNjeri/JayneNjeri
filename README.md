@@ -4,7 +4,7 @@ My name is Jane Mwangi
 ===================================================================================================================================
 I'm a passionate Software Developer driven by curiosity, problem-solving, and a love for building reliable, user-centered software.
 I’m currently upskilling in QA and learning Python to deepen my testing and automation expertise.
-I believe great teams thrive on collaboration, clarity, and ownership — values I bring into every project I join. I’m adaptable, analytical, and always ready to learn and contribute to building quality software that truly works.
+I believe great teams thrive on collaboration, clarity, and ownership, values I bring into every project I join. I’m adaptable, analytical, and always ready to learn and contribute to building quality software that truly works.
 ### Skills
 
 
